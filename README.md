@@ -1,2 +1,2 @@
 # FundResearch
-A project for data collecting . processing and analysising 
+This is a project for chinese funds including data collecting . processing and analysising.
